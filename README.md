@@ -6,4 +6,5 @@
 
 -I used the GeoJSON link for the last 7 days of earthquake data and JavaScript to map the data along with fault lines in Leaflet
 
-![alt tag](http://url/to/Screen Shot 2018-08-18 at 6.18.01 PM.png)
+![Optional Text](../master/Images/EQ.png)
+
